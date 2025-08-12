@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/training-ue-eds-wipro/:/",
+    "/content/training-ue-eds-wipro/configuration:/.helix/config.json",
+    "/content/training-ue-eds-wipro/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/training-ue-eds-wipro/"
   ]
 }
